@@ -1,0 +1,6 @@
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1001, 'admin', '$2a$10$OKYn8LyjAoyiML2zQ1LcHuJEON7yVsKp9uVs3h2L2GBfE67/0voOq', 1, '2023-08-01 18:14:45.000000', 0);
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1007, 'bdmin', '$2a$10$pLzqQuY9mIKNyUcsBn9MwuvRINqJi/.iTPFELj6jd6tCOQDWUO.KK', 1, '2024-03-06 11:19:30.000000', 0);
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1008, 'aff', '$2a$10$tBXqPdcQw6m8ej77vUOvqufyUt1h4t9nTH.RrNjnw9ySVn2xZ.40S', 1, '2024-03-06 12:45:33.000000', 0);
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1009, 'qweawerf', '$2a$10$S3dfCaA2h658PbB2uGiCBOTEOokO6pdW2RvN5GF.uobmEa9tuBCz6', 1, '2024-03-06 12:45:40.000000', 0);
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1010, 'sfhgb', '$2a$10$xXO7N//JziuodYOWinr92.qJxy7uICn5Ifz45N0mPBPMxSc4afaWq', 1, '2024-03-06 12:45:57.000000', 0);
+INSERT INTO `user` (`Id`, `LoginName`, `Password`, `IsAction`, `CreateTime`, `IsDeleted`) VALUES (1011, 'hanmah', '$2a$10$KK2t5Ky6zcOIUMy5Fr.bEer.ctNuvCWLCoSfvvqOm7l.9qBNGEgzK', 1, '2024-03-06 12:46:06.000000', 0);

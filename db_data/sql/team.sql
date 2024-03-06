@@ -1,0 +1,9 @@
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (6, '/team_image/3ee5db59-d021-4d0d-927e-70e850303f16.jpg', '参加第七届中国（上海）国际技术进出口交易会', '2020-06-05 21:34:36.397000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (11, '/team_image/9db92c6e-95e9-43df-b6d4-8b2e83f85dbe.jpg', '参加第七届中国（上海）国际技术进出口交易会', '2020-06-05 21:34:41.023000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (16, '/team_image/ad5bffa4-e608-4f0c-8cbd-f9daa2af8ef2.jpg', '参加第七届中国（上海）国际技术进出口交易会', '2023-11-29 13:50:15.743000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (17, '/team_image/12633c2f-387c-4587-a88a-43666265f886.jpg', '', '2019-04-26 16:05:38.187000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (18, '/team_image/f929d681-38c3-4d4f-b845-fa695f4801e8.jpg', '', '2019-04-26 16:05:47.690000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (19, '/team_image/f40c7512-4057-4b2f-84dc-d8ee93d6f5e1.jpg', '', '2019-04-26 16:05:55.947000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (20, '/team_image/37af22f2-d6d8-4b10-8377-9a28fa8dd8db.jpg', '', '2019-04-26 16:06:03.210000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (21, '/team_image/958585c0-18a3-450b-b7e1-c8ee4c2f7bec.jpg', '', '2019-04-26 16:06:11.277000', 0);
+INSERT INTO `team` (`Id`, `Img`, `Remark`, `CreateTime`, `IsDeleted`) VALUES (22, '/team_image/cafb7b6a-71dd-4a9b-881b-d3f9da6b8967.jpg', '', '2019-04-26 16:06:18.193000', 0);
